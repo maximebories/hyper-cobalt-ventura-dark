@@ -9,10 +9,11 @@
   },
   "keywords": [
     "hyper",
-    "hyper",
-    "theme"
+    "hyperterm",
+    "theme",
+    "cobalt"
   ],
-  "author": "TangChr",
+  "author": "Christian Tang <christian@tcdev.dk> (http://seaweed.dk)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TangChr/hyper-cobalt/issues"

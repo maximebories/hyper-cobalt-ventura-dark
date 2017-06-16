@@ -1,0 +1,14 @@
+node_modules
+package-lock.json
+.npmignore
+.gitignore
+.gitattributes
+*.log
+npm-debug.log*
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+.jshintrc
+.editorconfig
+.vscode
+.travis.yml
