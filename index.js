@@ -17,15 +17,15 @@ const lightCyan = '#3498DB';
 const lightWhite = '#ffffff';
 
 // custom colours
-const cobalt2blue = '#193549';
+const cobaltBackground = '#34495E';
 const variableBlue = '#0d3a58';
 const dustyBlue = '#34424C';
 const highlightBlue = '#1F4662';
 
 exports.decorateConfig = (config) => Object.assign({}, config, {
-  cursorColor: yellow,
+  cursorColor: lightYellow,
   foregroundColor: white,
-  backgroundColor: cobalt2blue,
+  backgroundColor: cobaltBackground,
   borderColor: 'rgba(255,255,255,0.05)',
   css: `
     ${config.css || ''}
