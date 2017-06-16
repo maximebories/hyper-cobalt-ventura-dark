@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/TangChr/hyper-cobalt/issues"
   },
-  "homepage": "https://github.com/TangChr/hyper-cobalt#readme"
+  "homepage": "https://github.com/TangChr/hyper-cobalt#readme",
+  "devDependencies": {
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.2"
+  },
+  "scripts":{
+    "test": "standard | snazzy"
+  }
 }
