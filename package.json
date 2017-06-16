@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Theme for Hyper",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TangChr/hyper-cobalt.git"
@@ -25,7 +22,7 @@
     "snazzy": "^7.0.0",
     "standard": "^10.0.2"
   },
-  "scripts":{
+  "scripts": {
     "test": "standard | snazzy"
   }
 }
