@@ -7,6 +7,8 @@
 
 A Cobalt inspired theme for the `hyper` terminal.
 
+Supports font ligatures.
+
 ## Usage
 Add `"hyper-cobalt"` to your `plugins` fields that is in `config` object in your `~/.hyper.js` file, and your terminal should automatically reload with theme changes.
 
