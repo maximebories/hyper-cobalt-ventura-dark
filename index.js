@@ -16,8 +16,6 @@ const colors = {
   lightCyan: '#3498DB',
   lightWhite: '#ffffff'
 }
-
-// custom colours
 const backgroundColor = '#34495E'
 
 exports.decorateConfig = (config) => Object.assign({}, config, {
