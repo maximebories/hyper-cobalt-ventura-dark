@@ -1,12 +1,20 @@
 language: node_js
 node_js:
-  - "6.1"
   - "6"
-  - "5.11"
   
 branches:
   only:
   - master
 
+nstall:
+  - npm -g install yarn
+  - yarn
+
+before_script:
+  - npm prune
+
 script:
   - npm run test
+
+notifications:
+  email: false
