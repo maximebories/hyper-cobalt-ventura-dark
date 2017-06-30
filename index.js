@@ -26,7 +26,8 @@ exports.decorateConfig = (config) => Object.assign({}, config, {
   borderColor: 'rgba(255,255,255,0.05)',
   termCSS: `
     ${config.termCSS || ''}
-    x-screen x-row {
+    x-screen x-row,
+    x-screen x-row span {
       font-variant-ligatures: initial !important;
     }
   `

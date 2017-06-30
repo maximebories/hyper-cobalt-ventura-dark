@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/travis/TangChr/hyper-cobalt.svg)](https://travis-ci.org/TangChr/hyper-cobalt)
 [![Downloads](http://img.shields.io/npm/dt/hyper-cobalt.svg)](https://www.npmjs.com/package/hyper-cobalt)
 
-A Cobalt inspired theme for the `hyper` terminal.
+A Cobalt inspired theme for the [`Hyper`](https://hyper.is/) terminal.
 
 Supports font ligatures.
 
