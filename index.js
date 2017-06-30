@@ -6,7 +6,7 @@ const colors = {
   blue: '#2980B9',
   magenta: '#8E44AD',
   cyan: '#2980B9',
-  white: '#ECF0F1',
+  white: '#E1E1E1',
   lightBlack: '#95A5A6',
   lightRed: '#E74C3C',
   lightGreen: '#2ECC71',
@@ -14,7 +14,7 @@ const colors = {
   lightBlue: '#3498DB',
   lightMagenta: '#9B59B6',
   lightCyan: '#3498DB',
-  lightWhite: '#ffffff'
+  lightWhite: '#FFFFFF'
 }
 const backgroundColor = '#34495E'
 
