@@ -6,7 +6,7 @@ branches:
   only:
   - master
 
-nstall:
+install:
   - npm -g install yarn
   - yarn
 
