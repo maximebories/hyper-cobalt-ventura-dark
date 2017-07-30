@@ -4,8 +4,9 @@
 [![Downloads][npm_counter_badge]][npm_url]
 [![Build Status][travis_badge]][travis_url]
 [![License][license_badge]][license_url]
+[![website][website_badge]](http://seaweed.dk)
 
-A Cobalt inspired theme for the [`Hyper`](https://hyper.is/) terminal.
+A Cobalt inspired theme for the [Hyper](https://hyper.is/) terminal.
 
 Supports font ligatures.
 
@@ -23,6 +24,7 @@ hpm install hyper-cobalt
 [npm_counter_badge]: http://img.shields.io/npm/dt/hyper-cobalt.svg
 [travis_badge]: https://img.shields.io/travis/TangChr/hyper-cobalt.svg
 [license_badge]: https://img.shields.io/github/license/TangChr/hyper-cobalt.svg
+[website_badge]: https://img.shields.io/badge/website-seaweed.dk-yellow.svg
 [npm_url]: https://www.npmjs.com/package/hyper-cobalt
 [travis_url]: https://travis-ci.org/TangChr/hyper-cobalt
 [license_url]: https://raw.githubusercontent.com/TangChr/hyper-cobalt/master/LICENSE
