@@ -22,7 +22,7 @@ hpm install hyper-cobalt
 
 [npm_version_badge]: http://img.shields.io/npm/v/hyper-cobalt.svg
 [npm_counter_badge]: http://img.shields.io/npm/dt/hyper-cobalt.svg
-[travis_badge]: https://img.shields.io/travis/TangChr/hyper-cobalt.svg
+[travis_badge]: https://img.shields.io/travis/TangChr/hyper-cobalt.svg?label=test
 [license_badge]: https://img.shields.io/github/license/TangChr/hyper-cobalt.svg
 [website_badge]: https://img.shields.io/badge/website-seaweed.dk-yellow.svg
 [npm_url]: https://www.npmjs.com/package/hyper-cobalt
